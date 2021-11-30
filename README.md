@@ -14,7 +14,7 @@ Working as an **AI Software Developer** at Techversant Infotech
 
 # 📬 Get in touch 😉
 - [LinkedIn](https://www.linkedin.com/in/littinrajan)
-- [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
+- [littin@techversantinfo.com](mailto:littin@techversantinfo.com)
 
 
 
