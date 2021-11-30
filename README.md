@@ -15,11 +15,6 @@ Working as an **AI Software Developer** at Techversant Infotech
 - [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
 
 
-# &#x1f4c8; My GitHub Stats 
-<a href="https://github.com/littintech/littintech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littintech&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/littintech/littintech">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=littintech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Littin Rajan's GitHub Stats" />
 </a>
@@ -28,7 +23,7 @@ Working as an **AI Software Developer** at Techversant Infotech
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littintech&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=littintech&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littintech.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littintech/littintech) ![Stars](https://img.shields.io/github/stars/littintech/littintech ![License](https://img.shields.io/github/license/littintech/littintech) ![Author](https://img.shields.io/badge/author-littintech-blue)
+![](https://komarev.com/ghpvc/?username=littintech&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littintech.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littintech/littintech) ![License](https://img.shields.io/github/license/littintech/littintech) ![Author](https://img.shields.io/badge/author-littintech-blue)
 
 <!-- ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littintech/littintech -->
