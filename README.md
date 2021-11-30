@@ -1,5 +1,6 @@
 <h1 align='center' style="color=blue;"> Littin Rajan </h1>
- <p align='center'>AI Software Developer at Techversant Infotech</p>
+ <p align='center'><b>AI Software Developer @ Techversant Infotech</b></p>
+
 
 # Hi there 👋
 
@@ -7,12 +8,14 @@ I am a Software Developer from India. Interested in, write about and develop (op
 
 Working as an **AI Software Developer** at Techversant Infotech
 
+
 # Where I'm "active" 🙂
 * [Stack Overflow](https://stackoverflow.com/users/12266677/littin-rajan)
 
 # 📬 Get in touch 😉
 - [LinkedIn](https://www.linkedin.com/in/littinrajan)
 - [littinrajan@gmail.com](mailto:littinrajan@gmail.com)
+
 
 
 <a href="https://github.com/littintech/littintech">
@@ -27,5 +30,3 @@ Working as an **AI Software Developer** at Techversant Infotech
 
 <!-- ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littintech/littintech -->
-
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
