@@ -26,7 +26,11 @@ Working as an **AI Software Developer** at Techversant Infotech
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=littintech&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=littintech&color=blue&style=plastic&label=Profile+Views) ![visitors](https://visitor-badge.glitch.me/badge?page_id=littintech.visitor-badge&left_color=blue&right_color=red) ![Issues](https://img.shields.io/github/issues/littintech/littintech) ![License](https://img.shields.io/github/license/littintech/littintech) ![Author](https://img.shields.io/badge/author-littintech-blue)
+![](https://komarev.com/ghpvc/?username=littintech&color=blue&style=plastic&label=Profile+Views) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=littintech.visitor-badge&left_color=blue&right_color=red) 
+![Issues](https://img.shields.io/github/issues/littintech/littintech) 
+![License](https://img.shields.io/github/license/littintech/littintech) 
+![Author](https://img.shields.io/badge/author-littintech-blue)
 
 <!-- ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/littinrajan/littinrajan.svg)](https://starchart.cc/littintech/littintech -->
